@@ -2,7 +2,7 @@
 <zoom>
   <targetCountry>Palestine</targetCountry>
   <title>Palestinian Territories</title>
-  <subtitle>Zoom Map</subtitle>
+  <subtitle>Neighboring Countries</subtitle>
 <country dropX="40" dropY="300">Egypt</country>
 <country dropX="160" dropY="250">Israel</country>
 <country dropX="235" dropY="220">Jordan</country>
