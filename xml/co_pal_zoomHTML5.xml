@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zoom>
+  <targetCountry>Palestine</targetCountry>
+  <title>Palestinian Territories</title>
+  <subtitle>Zoom Map</subtitle>
+<country dropX="40" dropY="300">Egypt</country>
+<country dropX="160" dropY="250">Israel</country>
+<country dropX="235" dropY="220">Jordan</country>
+<country dropX="175" dropY="150">Lebanon</country>
+<country dropX="260" dropY="115">Syria</country>
+<country dropX="170" dropY="20">Türkiye</country>
+</zoom>
